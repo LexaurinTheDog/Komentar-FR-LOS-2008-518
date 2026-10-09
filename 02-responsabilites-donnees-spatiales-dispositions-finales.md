@@ -178,6 +178,40 @@ Le texte ne dit pas quel régime s'applique alors. En l'absence de disposition s
 
 On remarquera que l'article ne vise pas les opérations conduites par l'État dans l'intérêt de la défense nationale (art. 11-1, 2°) : celles-ci, exclues du régime d'autorisation, ne sont pas exclues du titre IV par le présent article.
 
+#### TITRE V — DISPOSITIONS RELATIVES AU CODE DE LA RECHERCHE
+
+### Article 21
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code de la recherche
+>
+> Art. L331-6
+>
+> A modifié les dispositions suivantes :
+>
+> - Code de la recherche
+>
+> Art. L331-7, Art. L331-8
+
+L'article 21 constitue à lui seul le titre V, intitulé « Dispositions relatives au code de la recherche ». Selon la source, il a modifié l'article L. 331-6 puis les articles L. 331-7 et L. 331-8 du code de la recherche ; la double mention « A modifié les dispositions suivantes » reflète deux opérations de modification distinctes réunies dans le même article. Il s'agit d'un article purement modificatif, dépourvu de période de vigueur propre dans la base LEGI : les règles qu'il a introduites figurent dans le code de la recherche, qu'il convient de consulter dans sa rédaction en vigueur.
+
+#### TITRE VI — PROPRIETE INTELLECTUELLE
+
+### Article 22
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code de la propriété intellectuelle
+>
+> Art. L611-1, Art. L613-5
+
+L'article 22 forme le titre VI, consacré à la propriété intellectuelle. Selon la source, il a modifié les articles L. 611-1 et L. 613-5 du code de la propriété intellectuelle. Article purement modificatif, il n'a pas de contenu normatif autonome dans la version consolidée ; l'adaptation du droit des brevets aux activités spatiales qu'il opère doit être recherchée dans le code modifié.
+
 #### TITRE VII — DONNEES D'ORIGINE SPATIALE
 
 ### Article 23
@@ -284,6 +318,26 @@ L'exclusion est nécessaire au regard de la définition large de l'opération sp
 
 Elle se distingue de l'exclusion de l'article 11-1, 2°, qui vise les opérations spatiales conduites par l'État dans l'intérêt de la défense nationale et laisse subsister l'application de la réglementation technique. L'article 26 exclut, quant à lui, l'application de la loi tout entière, et par un critère tenant à la nature de l'engin et de sa trajectoire. La condition que l'activité soit menée pour les besoins de la défense nationale demeure toutefois : un engin suborbital civil n'est pas couvert par l'exclusion.
 
+### Article 27
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2022-02-26 par Ordonnance n°2022-232 du 23 février 2022 - art. 16)
+
+L'article 27 se situait au titre VIII (dispositions transitoires et finales), après l'article 26, qui exclut du champ de la loi le lancement et le guidage d'engins pour les besoins de la défense nationale. Selon la source, il est abrogé à compter du 26 février 2022 par l'article 16 de l'ordonnance n° 2022-232 du 23 février 2022 ; son texte n'est pas reproduit et le commentaire ne le reconstitue pas.
+
+### Article 28
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code de la recherche
+>
+> Art. L331-2
+
+L'article 28 du titre VIII a modifié, selon la source, l'article L. 331-2 du code de la recherche. Comme l'article 21, il coordonne le code de la recherche avec la loi ; il n'a pas de période de vigueur propre dans la base LEGI et ne régit par lui-même aucune situation. Il est reproduit pour la complétude de la numérotation des dispositions transitoires et finales, qui se poursuivent avec les articles 29 et 30.
+
 ### Article 29
 
 **Texte de la disposition:**
@@ -294,7 +348,7 @@ L'article 29 subordonne l'entrée en vigueur des articles 16 et 17 à la publica
 
 Cette disposition transitoire, reprise dans les NOTA de la source sous les articles 16 et 17, traduit la règle selon laquelle l'engagement financier de l'État ne peut résulter que d'une autorisation du législateur financier : l'administration ne peut fixer dans chaque autorisation le montant pivot de l'action récursoire (art. 14) et de la garantie (art. 15) qu'à l'intérieur d'une fourchette votée en loi de finances.
 
-La numérotation de la loi consolidée passe de l'article 26 à l'article 29 ; les articles 27 et 28 ne figurent pas dans la version consolidée, et le présent commentaire ne se prononce pas sur leur contenu d'origine.
+Les articles 27 et 28 qui le suivent n'ont pas de rédaction en vigueur : l'article 27 est abrogé et l'article 28 est purement modificatif (voir leur commentaire).
 
 ### Article 30
 

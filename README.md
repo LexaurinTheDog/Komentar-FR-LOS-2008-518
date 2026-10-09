@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales
 
-Commentaire d'un texte de droit français : **loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales** (JORF n° 0129 du 4 juin 2008). Il couvre **33 articles** répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
+Commentaire d'un texte de droit français : **loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales** (JORF n° 0129 du 4 juin 2008). Il couvre **37 articles** (33 articles en vigueur et 4 articles abrogés ou purement modificatifs, reproduits pour que la numérotation soit complète) répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
 
 La loi soumet à autorisation préalable les opérations de lancement, de maîtrise en orbite, de transfert de maîtrise et de retour sur Terre d'objets spatiaux, organise le contrôle administratif et les sanctions de ces opérations, confie au Centre national d'études spatiales la tenue du registre d'immatriculation, institue un régime spécial de responsabilité de l'opérateur à l'égard des tiers assorti d'une action récursoire et d'une garantie de l'État, et encadre l'activité des exploitants primaires de données d'origine spatiale.
 

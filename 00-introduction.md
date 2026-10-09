@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales, examinée article par article — **33 articles** dans leur rédaction consolidée en vigueur. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales, examinée article par article — **37 articles** : les 33 articles en vigueur dans leur rédaction consolidée et 4 articles abrogés ou purement modificatifs, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -21,7 +21,7 @@ Le commentaire est réparti en deux chapitres :
 1. Titres Ier à III — Définitions, autorisation des opérations spatiales, contrôles et sanctions, opérations de l'État et du CNES, immatriculation (art. 1er à 12) ;
 2. Titres IV à VIII — Responsabilités, données d'origine spatiale, dispositions transitoires et finales (art. 13 à 30).
 
-Les articles 21, 22, 27 et 28 ne figurent pas dans la version consolidée de la source et ne sont pas commentés ; le commentaire ne reconstitue pas leur contenu.
+Les articles 21, 22, 27 et 28 n'ont pas de rédaction en vigueur : les articles 21, 22 et 28, purement modificatifs du code de la recherche et du code de la propriété intellectuelle, sont reproduits avec la mention « A modifié les dispositions suivantes » et la liste des dispositions modifiées, et l'article 27, abrogé, avec la date et le texte d'abrogation. Ils font l'objet d'un commentaire bref, qui ne reconstitue pas leur contenu antérieur.
 
 ## Méthode
 
